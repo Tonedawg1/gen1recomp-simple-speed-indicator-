@@ -1,0 +1,10 @@
+{
+  "id": "speed_flash",
+  "name": "Speed Indicator",
+  "version": "1.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "category": "UI",
+  "games": ["all"],
+  "description": "Flashes the current game-speed multiplier (e.g. 2X) in the bottom-left when you change speed."
+}

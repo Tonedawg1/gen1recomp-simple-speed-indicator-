@@ -6,5 +6,6 @@
   "entry": "main.lua",
   "category": "UI",
   "games": ["all"],
+  "github": "Tonedawg1/gen1recomp-simple-speed-indicator-",
   "description": "Flashes the current game-speed multiplier (e.g. 2X) in the bottom-left when you change speed."
 }

@@ -2,7 +2,7 @@ This is a simple Speed Indicator for Gen1Recomp. It just flashes a little text i
 
 Grab the latest zip from "Releases" on the right.
 
-This mod should work with both gen 1 and gen 2 games.
+This mod should work with all gen 1 and gen 2 games.
 
 Example image:
 https://imgur.com/a/gen1recomp-speed-indicator-demonstration-6r0v0Ga

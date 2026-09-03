@@ -6,5 +6,5 @@ This mod should work with all gen 1 and gen 2 games.
 Example image:
 https://imgur.com/a/gen1recomp-speed-indicator-demonstration-6r0v0Ga
 
-# Install
+## Install
 Grab the latest zip from "Releases" on the right.

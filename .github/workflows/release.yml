@@ -145,9 +145,6 @@ jobs:
           print(f"manifest.json is at the archive root and reports {version}")
           PY
 
-          (cd "$out" && sha256sum speed_flash-*.zip > sha256sums.txt)
-          cat "$out/sha256sums.txt"
-
       - name: Publish GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -170,7 +167,6 @@ jobs:
             --target "$GITHUB_SHA" \
             --title "$VERSION" \
             --notes "$notes" \
-            "dist/speed_flash-${VERSION}.zip" \
-            "dist/sha256sums.txt"
+            "dist/speed_flash-${VERSION}.zip"
 
           echo "Published release $TAG"
